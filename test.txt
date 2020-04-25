@@ -3,4 +3,12 @@ Creating a new branch is quick.
 znegjialeyihang .
 4
 5
+<<<<<<< HEAD
 xiugulebug
+=======
+<<<<<<< HEAD
+6未提交版本
+=======
+xiugulebug
+>>>>>>> 0918565... fix bug 101
+>>>>>>> newdev
